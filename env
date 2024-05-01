@@ -1,0 +1,11 @@
+BATTLE_BOT=class_bot
+WEBSOCKET_URI=sim.smogon.com:8000
+PS_USERNAME=CS-4804-Research
+PS_PASSWORD=Research123
+BOT_MODE=SEARCH_LADDER
+POKEMON_MODE=gen8randombattle
+RUN_COUNT=1
+
+USER_TO_CHALLENGE=SomeOtherPerson
+TEAM_NAME=gen8/ou/clef_sand
+SAVE_REPLAY=False
